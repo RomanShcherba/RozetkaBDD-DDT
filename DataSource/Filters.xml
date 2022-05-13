@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Filters>
+	<FiltersList>
+<!-- -->
+	<Filter>
+			<nameProducts>Ноутбуки</nameProducts>
+			<brand>Asus</brand>
+			<sort>2</sort>
+			<price>220000</price>
+		</Filter>
+		<Filter>
+			<nameProducts>Монітори</nameProducts>
+			<brand>Acer</brand>
+			<sort>2</sort>
+			<price>50000</price>
+		</Filter>
+		<Filter>
+			<nameProducts>Ванни</nameProducts>
+			<brand>Besco</brand>
+			<sort>2</sort>
+			<price>31000</price>
+		</Filter>
+		<Filter>>
+			<nameProducts>Пральні машини</nameProducts>
+			<brand>LG</brand>
+			<sort>2</sort>
+			<price>110000</price>
+		</Filter>
+		<Filter>
+			<nameProducts>Смартфоны</nameProducts>
+			<brand>Xiaomi</brand>
+			<sort>2</sort>
+			<price>20000</price>
+		</Filter>
+	</FiltersList>
+</Filters>
